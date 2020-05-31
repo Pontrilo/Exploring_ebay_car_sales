@@ -13,4 +13,5 @@ This project is based on the guided project by Dataquest and used as a learning 
 The files in the repository are as follows:
 
 Basics.ipynb is the Jupyter notebook containing all the analysis
+autos.csv is the data used for this project
 
